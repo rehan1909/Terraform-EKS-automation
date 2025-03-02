@@ -37,4 +37,3 @@ module "myapp-vpc" {
     "kubernetes.io/role/internal-elb" = 1
   }
 }
-# Vpc Creation block
